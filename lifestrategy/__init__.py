@@ -2,6 +2,8 @@ import datetime
 import logging
 
 import azure.functions as func
+import pandas as pd
+import selenium
 
 
 def main(mytimer: func.TimerRequest) -> None:

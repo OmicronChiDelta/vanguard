@@ -1,0 +1,19 @@
+"Search for more historical prices"
+<button mat-stroked-button="" class="mat-focus-indicator short-button mt-4 mb-4 mat-stroked-button mat-button-base">Search for more historical prices</button>
+
+<start loop>
+"Start Date"
+
+"Year picker"
+
+"Month picker"
+
+"Day Picker"
+
+<recover table>
+
+"Next"
+<end loop>
+
+ng tns c193 15
+ng tns c193 16

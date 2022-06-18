@@ -3,3 +3,6 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+pandas==1.4.2
+azure-storage-blob
+selenium==3.141.0
